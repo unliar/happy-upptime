@@ -4,7 +4,7 @@ repo: happy-upptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: happysooner
+  - name: happysooner.com
     url: https://happysooner.com
 #
 status-website:
