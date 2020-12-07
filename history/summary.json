@@ -2,6 +2,7 @@
   {
     "name": "happysooner.com",
     "url": "https://happysooner.com",
+    "icon": "https://favicons.githubusercontent.com/happysooner.com",
     "slug": "happysooner-com",
     "status": "up",
     "uptime": "100.00%",
@@ -9,10 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1428,
-    "timeDay": 1793,
-    "timeWeek": 1434,
-    "timeMonth": 1428,
-    "timeYear": 1428
+    "time": 1433,
+    "timeDay": 1538,
+    "timeWeek": 1463,
+    "timeMonth": 1433,
+    "timeYear": 1433,
+    "dailyMinutesDown": {}
   }
 ]
