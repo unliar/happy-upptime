@@ -4,19 +4,19 @@
     "url": "https://happysooner.com",
     "icon": "https://favicons.githubusercontent.com/happysooner.com",
     "slug": "happysooner-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1465,
-    "timeDay": 2035,
-    "timeWeek": 1578,
-    "timeMonth": 1465,
-    "timeYear": 1465,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "98.44%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 1555,
+    "timeDay": 2806,
+    "timeWeek": 1830,
+    "timeMonth": 1555,
+    "timeYear": 1555,
     "dailyMinutesDown": {
-      "2020-12-09": 0
+      "2020-12-09": 22
     }
   }
 ]
