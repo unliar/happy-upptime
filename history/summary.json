@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/happysooner.com",
     "slug": "happysooner-com",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.95%",
-    "time": 1485,
-    "timeDay": 1391,
-    "timeWeek": 1337,
-    "timeMonth": 1500,
-    "timeYear": 1485,
+    "uptimeYear": "99.96%",
+    "time": 1481,
+    "timeDay": 1282,
+    "timeWeek": 1330,
+    "timeMonth": 1501,
+    "timeYear": 1481,
     "dailyMinutesDown": {
       "2020-12-09": 22
     }
