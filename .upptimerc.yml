@@ -6,6 +6,8 @@ repo: happy-upptime # Your Github repository name
 sites:
   - name: happysooner.com
     url: https://happysooner.com
+  - name: unliar.github.io/vue3-ts-happysooner-web
+    url: https://unliar.github.io/vue3-ts-happysooner-web
 #
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
