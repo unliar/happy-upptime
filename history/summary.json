@@ -52,19 +52,19 @@
     "url": "https://unliar.github.io/vue3-ts-happysooner-web",
     "icon": "https://favicons.githubusercontent.com/unliar.github.io",
     "slug": "unliar-github-io-vue3-ts-happysooner-web",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.92%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.98%",
     "time": 121,
-    "timeDay": 109,
-    "timeWeek": 104,
-    "timeMonth": 103,
+    "timeDay": 96,
+    "timeWeek": 100,
+    "timeMonth": 102,
     "timeYear": 121,
     "dailyMinutesDown": {
-      "2021-06-08": 0
+      "2021-06-08": 30
     }
   }
 ]
