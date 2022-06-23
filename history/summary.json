@@ -6,14 +6,14 @@
     "slug": "happysooner-com",
     "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "96.59%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.51%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.77%",
-    "time": 1296,
-    "timeDay": 822,
-    "timeWeek": 944,
-    "timeMonth": 1246,
+    "time": 1295,
+    "timeDay": 1005,
+    "timeWeek": 940,
+    "timeMonth": 1249,
     "timeYear": 1296,
     "dailyMinutesDown": {
       "2022-06-21": 49,
@@ -32,8 +32,7 @@
       "2021-07-31": 25,
       "2021-07-11": 18,
       "2021-07-10": 26,
-      "2021-07-04": 15,
-      "2021-06-23": 38
+      "2021-07-04": 15
     }
   },
   {
@@ -43,15 +42,15 @@
     "slug": "vue-next-happysooner-com",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "97.55%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.65%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.90%",
-    "time": 1130,
-    "timeDay": 2648,
-    "timeWeek": 1395,
-    "timeMonth": 1318,
-    "timeYear": 1161,
+    "time": 1129,
+    "timeDay": 999,
+    "timeWeek": 1383,
+    "timeMonth": 1322,
+    "timeYear": 1162,
     "dailyMinutesDown": {
       "2022-06-21": 35,
       "2022-04-12": 140,
@@ -64,8 +63,7 @@
       "2021-08-11": 17,
       "2021-07-31": 24,
       "2021-07-11": 17,
-      "2021-07-10": 26,
-      "2021-06-23": 37
+      "2021-07-10": 26
     }
   },
   {
@@ -79,10 +77,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 101,
-    "timeDay": 230,
-    "timeWeek": 88,
-    "timeMonth": 136,
+    "time": 100,
+    "timeDay": 55,
+    "timeWeek": 91,
+    "timeMonth": 135,
     "timeYear": 95,
     "dailyMinutesDown": {}
   }
