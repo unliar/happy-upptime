@@ -48,17 +48,19 @@
     "url": "https://unliar.github.io/vue3-ts-happysooner-web",
     "icon": "https://icons.duckduckgo.com/ip3/unliar.github.io.ico",
     "slug": "unliar-github-io-vue3-ts-happysooner-web",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 159,
-    "timeDay": 202,
-    "timeWeek": 161,
-    "timeMonth": 114,
+    "timeDay": 128,
+    "timeWeek": 147,
+    "timeMonth": 112,
     "timeYear": 169,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-03": 0
+    }
   }
 ]
