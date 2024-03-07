@@ -10,6 +10,8 @@ sites:
     url: https://vue-next.happysooner.com
   - name: unliar.github.io/vue3-ts-happysooner-web
     url: https://unliar.github.io/vue3-ts-happysooner-web
+  - name: flyneko.com
+    url: https://flyneko.com
 #
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
