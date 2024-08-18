@@ -4,18 +4,19 @@
     "url": "https://happysooner.com",
     "icon": "https://icons.duckduckgo.com/ip3/happysooner.com.ico",
     "slug": "happysooner-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.37%",
-    "time": 1265,
+    "time": 1251,
     "timeDay": 443,
     "timeWeek": 305,
     "timeMonth": 365,
     "timeYear": 1327,
     "dailyMinutesDown": {
+      "2024-08-18": 3,
       "2024-03-07": 68,
       "2024-03-06": 115,
       "2024-01-30": 239,
@@ -43,10 +44,10 @@
     "url": "https://vue-next.happysooner.com",
     "icon": "https://icons.duckduckgo.com/ip3/vue-next.happysooner.com.ico",
     "slug": "vue-next-happysooner-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 807,
@@ -55,6 +56,7 @@
     "timeMonth": 240,
     "timeYear": 753,
     "dailyMinutesDown": {
+      "2024-08-18": 2,
       "2024-03-07": 68,
       "2024-03-06": 45,
       "2024-01-15": 18,
@@ -87,9 +89,9 @@
     "url": "https://flyneko.com",
     "icon": "https://icons.duckduckgo.com/ip3/flyneko.com.ico",
     "slug": "flyneko-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -98,6 +100,8 @@
     "timeWeek": 56,
     "timeMonth": 67,
     "timeYear": 64,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-18": 0
+    }
   }
 ]
