@@ -4,10 +4,6 @@ repo: happy-upptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: happysooner.com
-    url: https://happysooner.com
-  - name: vue-next.happysooner.com
-    url: https://vue-next.happysooner.com
   - name: unliar.github.io/vue3-ts-happysooner-web
     url: https://unliar.github.io/vue3-ts-happysooner-web
   - name: flyneko.com
